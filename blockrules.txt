@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 202008100817
-! Title: My Privacy DNS – Andblock Rules
+! Version: 202008100822
+! Title: Spirillen's – Adblock Rules
 ! Expires: 1 hours
 ! 
 ! List url:
